@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : Specializing in everything
+  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  feature_item : 
+      # feature item loop
+    - title : Optimized for real life
+      icon : ti-time # themify icon pack : https://themify.me/themify-icons
+      content : Aquariums and habitats are low maintenance and largely self sustaining
+      
+      # feature item loop
+    - title : Easy Customization
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : Design your own tank. I will help make sure your animal friends are compatible and comfortable.
+
+      # feature item loop
+    - title : SEO Optimized
+      icon : ti-money # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      
+      # feature item loop
+    - title : Easy Customization
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : My Offerings
+  about_item :
+  - icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+    title : Fresh Stuff!
+    content : A local shop for freshwater flora and fauna, antiques, collectibles, and more.
+
+  - icon : ti-hummer # themify icon pack : https://themify.me/themify-icons
+    title : Professional Services
+    content : Offering a variety of aquatic and home beautification services.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : Mindful Practices
+    content : Helping the world live alongside the beauty of nature.

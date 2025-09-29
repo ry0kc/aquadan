@@ -1,0 +1,26 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Skillz
+  subtitle : Aquariums, tech, gardening, automation, water features, paladariums 
+  content : Reach out today. You have a problem? I'll solve it? No problem.
+  image : images/about/FishEarth.webp
+  skill_item :
+    # skill item loop
+    - name :  Aquatic Systems Management
+      percent : 90%
+      
+    # skill item loop
+    - name :  Horticulture
+      percent : 90%
+      
+    # skill item loop
+    - name :  Consultation
+      percent : 80%
+      
+    - name :  IT and Automation
+      percent : 95%
+      
+    # skill item loop
+    - name :  Lots More!
+      percent : 75%

@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Solutions for Home & Business"
+  content : "Whether it's a project at your personal residence or a feature for your place of business, I've go you covered"
+  button:
+    enable : true
+    label : "Start a project with me"
+    link : "#contact"
