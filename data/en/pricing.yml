@@ -4,28 +4,28 @@ pricing:
   title : Our Plans
   pricing_table :
     # pricing table loop
-    - name : Free
+    - name : Tadpole
       price : $99
-      unit : month
+      unit : bubble-beam
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
+        - 1GoB Lizard Space
+        - 10 Gremlin Account
+        - Spider Installer
+        - 1 GloB Storage
+        - 10 GoBy Bandwidth
         - 24/7 Tech Support
       button:
         label : "Signup"
         link : "#"
       
     # pricing table loop
-    - name : Silver
+    - name : Frog
       price : $149
-      unit : month
+      unit : bubble-beam
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
+        - Webbing space
+        - 10 Email whirlpools
+        - Micro cilantro
         - 1 GB Storage
         - 10 GB Bandwidth
         - 24/7 Tech Support
@@ -34,31 +34,29 @@ pricing:
         link : "#"
         
     # pricing table loop
-    - name : Gold
+    - name : Lizard
       price : $199
       unit : month
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
+        - 1
         - 24/7 Tech Support
       button:
         label : "Signup"
         link : "#"
         
     # pricing table loop
-    - name : Platinum
+    - name : Lizard Overlord
       price : $299
       unit : month
       services:
         - 1GB Disk Space
         - 10 Email Account
         - Script Installer
-        - 1 GB Storage
+        - Shi
         - 10 GB Bandwidth
         - 24/7 Tech Support
       button:
         label : "Signup"
         link : "#"
+
+        

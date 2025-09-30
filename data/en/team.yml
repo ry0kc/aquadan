@@ -4,7 +4,7 @@ team:
   title : Our Team
   team_member :
     # team member loop
-    - name : Abul Mal Muhit
+    - name : Leonard
       image_webp : images/team/team-1.webp
       image : images/team/team-1.jpg
       designation : CEO/Founder
@@ -20,7 +20,7 @@ team:
           link : "#"
         
     # team member loop
-    - name : Frank Miller
+    - name : Luna
       image_webp : images/team/team-2.webp
       image : images/team/team-2.jpg
       designation : Manager
@@ -36,7 +36,7 @@ team:
           link : "#"
         
     # team member loop
-    - name : Michael Jonson
+    - name : Cher
       image_webp : images/team/team-3.webp
       image : images/team/team-3.jpg
       designation : Web Developer
